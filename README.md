@@ -8,5 +8,3 @@ algorithms (C/Linux)
 (C/Linux)
 - Developed a custom Linux shell that supports job control and I/O redirection (C/Linux)
 - Implemented a HTTP proxy that handles scalable concurrent connections with optimized Caching (C/Linux)
-- Implemented Decision Tree learning, prediction, and evaluation using mutual information as a splitting criterion
-(Python/Linux)
